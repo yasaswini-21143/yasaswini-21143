@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @yasaswini-21143
-- CRYPTO CURRENCY FORENSIC PRODUCT RESEARCH
+CRYPTO CURRENCY FORENSIC PRODUCT RESEARCH
   
 --->
  Data Collection and Preprocessing Collect Bitcoin price data from sources like CoinGecko, CoinMarketCap, and Yahoo Finance. Preprocess the data by handling missing values, normalizing features, and converting timestamps. Incorporate additional factors such as trading volume, global economic indicators, and social media sentiment.
